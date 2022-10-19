@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="button1">Suma</string>
+    <string name="button2">Resta</string>
+    <string name="button3">Multiplicación</string>
+    <string name="button4">Divisón</string>
+    <string name="dato1"> Ingrese el primer numero</string>
+    <string name="dato2"> Ingrese el segundo numero</string>
+    <string name="resultadoF">0</string>
+    <string name="button5">Regresar</string>
+</resources>
